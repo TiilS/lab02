@@ -16,14 +16,6 @@ $ git pull --rebase origin master
   Из https://github.com/TiilS/lab02
    * branch            master     -> FETCH_HEAD
      6fbc8f5..0939789  master     -> origin/master
-  Автослияние hello_world.cpp
-  КОНФЛИКТ (содержимое): Конфликт слияния в hello_world.cpp
-  error: не удалось применить коммит 5d4736e... Format Mozilla
-  подсказка: Resolve all conflicts manually, mark them as resolved with
-  подсказка: "git add/rm <conflicted_files>", then run "git rebase --continue".
-  подсказка: You can instead skip this commit: run "git rebase --skip".
-  подсказка: To abort and get back to the state before "git rebase", run "git rebase --abort".
-
 ```
 
 ```
